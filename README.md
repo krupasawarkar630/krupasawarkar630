@@ -15,9 +15,21 @@
 
 ## About Me
 
-I'm a Computer Science & Engineering student who likes turning ideas into working software. I started with Android app development, and I'm now growing toward AI, Generative AI and AI agents.
+I'm Krupa Sawarkar, a Computer Science & Engineering student and Android developer interested in building practical, user-focused applications. I enjoy turning ideas into working solutions while exploring Android development, Artificial Intelligence, Generative AI and AI Agents.
 
-I've built apps hands-on with Firebase, I enjoy hackathons and technical challenges, and I like helping beginners understand concepts — teaching is one of the best ways I've found to learn.
+I learn best through hands-on experimentation and solving real-world problems, and I like taking part in technical communities and sharing what I learn.
+
+---
+
+## 🌱 Interests
+
+- Android development and mobile applications
+- Artificial Intelligence and Generative AI
+- AI Agents and intelligent systems
+- Problem solving and real-world applications
+- Exploring emerging technologies
+- Developer communities and technical learning
+- Continuous learning and skill improvement
 
 ---
 
