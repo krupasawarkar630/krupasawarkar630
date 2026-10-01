@@ -1,69 +1,222 @@
 # 👋 Hi, I'm Krupa Sawarkar
-**Computer Science & Engineering Student | Android Developer | AI Enthusiast**
+
+### Android Developer | AI & Software Development | Computer Science & Engineering
+
+I’m a Computer Science & Engineering student passionate about building practical software, Android applications, and AI-powered solutions.
+
+I enjoy turning ideas into working products — from mobile applications and backend systems to intelligent features and full-stack projects.
 
 ---
 
-### 👩‍💻 About Me
-I am a Computer Science & Engineering student focused on native Android development, backend systems, and applied Artificial Intelligence. With hands-on internship experience in mobile and full-stack environments, I enjoy bridging clean software architectures with practical, intelligent user experiences.
+## 👩‍💻 About Me
 
-Beyond engineering, I am deeply committed to developer education and peer empowerment. I have served as an **Android Developer Member at GDG on Campus (PRMIT&R)**, an **NVIDIA Teaching Assistant**, and an **IEEE Workshop Lead Contributor**—mentoring **300+ students** across mobile app development, foundational programming, and technical paper writing, including personally instructing **50+ diploma students** in mobile and full-stack development.
-
-- 🎓 **Academics:** B.Tech in Computer Science & Engineering (Diploma in Computer Engineering alumna)
-- 📱 **Core Focus:** Native Android development & applied AI integration
-- ☁️ **Backends:** Firebase, Supabase, MySQL
-- 👥 **Community:** GDG on Campus Member • NVIDIA Teaching Assistant • IEEE Lead Contributor
-- 💬 **AI Workflow:** Prompt engineering, LLM API integration, and AI-augmented prototyping
-
----
-
-### 🛠️ Skills & Technologies
-
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Mobile Development:**  
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**Databases & Cloud:**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-
-**Version Control & Developer Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![XML](https://img.shields.io/badge/XML-006699?style=for-the-badge&logo=xml&logoColor=white)
-
-**AI & Prototyping:**  
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+* 🎓 Computer Science & Engineering student with a Diploma in Computer Engineering
+* 📱 Focused on **Native Android Development using Java & XML**
+* 🤖 Exploring **Artificial Intelligence, Generative AI and LLM-powered applications**
+* 💻 Building projects with **Java, Python, JavaScript and TypeScript**
+* 🔥 Working with **Firebase, databases, REST APIs and backend technologies**
+* 🚀 Interested in **hackathons, project competitions and real-world problem solving**
+* 👥 Interested in **technical mentoring, workshops and developer communities**
+* 🧠 Currently strengthening my **DSA, backend development and software engineering fundamentals**
 
 ---
 
-### 🚀 What I'm Actively Exploring
+## 🛠️ Tech Stack
 
-* **Intelligent Mobile Apps:** Learning to integrate LLMs into Android app workflows
-* **Modern Android Development:** Deepening skills beyond core Android fundamentals
-* **Backend Design:** Learning to build scalable, well-structured APIs and data flows
+### 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### 📱 Android Development
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+**Java • XML • Android Studio • Firebase • REST API Integration**
+
+### 🌐 Web & Backend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+**React • TypeScript • REST APIs • Backend Development**
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### 🤖 AI & Development
+
+* Generative AI & LLM APIs
+* Prompt Engineering
+* AI-powered Application Development
+* API Integration
+* AI-assisted Prototyping
+* Intelligent Search & Recommendation Concepts
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=white)
 
 ---
 
-### 🎯 What I'm Working Towards
-To grow as an impact-driven software engineer who builds practical, AI-augmented mobile applications that solve real-world problems while continuing to uplift student developer communities.
+## 🚀 What I'm Building
+
+### 📱 Android Applications
+
+Building native Android applications using **Java and XML**, focusing on practical functionality, clean user experiences and real-world use cases.
+
+### 🤖 AI-Powered Applications
+
+Exploring how AI and LLM APIs can be integrated into applications for:
+
+* Intelligent search
+* Recommendations
+* Automation
+* Document processing
+* Decision support
+* Personalized user experiences
+
+### 🌐 Full-Stack Projects
+
+Learning and building complete systems that connect:
+
+**Frontend → Backend → Database → APIs → AI**
+
+### 🏆 Hackathon Projects
+
+I enjoy building solutions under time constraints and working on ideas focused on practical problems, innovation and real-world implementation.
 
 ---
 
-### 🤝 Let's Connect
+## 📌 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krupa-sawarkar-b808ba322)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krupasawarkar630)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krupasawarkar630@gmail.com)
+### 💰 CurrencyGuardAI
 
-*⭐ Learning • Building • Mentoring*
+An Android application focused on fake currency detection using image analysis and AI/ML-assisted detection concepts.
+
+**Tech:** Java • XML • Android • CameraX • ML Kit • TensorFlow Lite • Firebase
+
+---
+
+### 🏛️ BhuSatya
+
+An intelligent land-record digitization and validation system designed to process documents, extract information and identify inconsistencies using AI-assisted validation.
+
+**Tech:** AI • OCR • Document Processing • GIS • Backend Systems
+
+---
+
+### 🤖 CrewSense AI
+
+An AI-powered team intelligence and resource optimization system focused on workload analysis, capacity planning, what-if planning and human-approved decision making.
+
+**Tech:** AI Agents • Full Stack • Backend • Optimization
+
+---
+
+### 🎓 Blockchain Certificate Verification
+
+A blockchain-based certificate verification system exploring secure and tamper-resistant academic credential verification.
+
+**Tech:** JavaScript • Blockchain • Web Development
+
+---
+
+## 🏆 Hackathons & Technical Activities
+
+I enjoy participating in technical events and hackathons where ideas need to be transformed into working prototypes within limited time.
+
+### Areas I enjoy working on:
+
+* 💡 Problem Solving & Ideation
+* 📱 Android Development
+* 🤖 Artificial Intelligence
+* 🌐 Full-Stack Development
+* 🗄️ Backend & Database Design
+* 🔗 API Integration
+* 👥 Team Collaboration
+* 🎤 Technical Presentations
+
+---
+
+## 👥 Community & Mentoring
+
+Along with development, I enjoy helping other students learn technical concepts and start building projects.
+
+My technical activities include involvement in:
+
+* **GDG on Campus**
+* **NVIDIA Teaching Activities**
+* **IEEE Technical Workshops**
+* Student mentoring and peer learning
+
+I believe that learning becomes stronger when we **build, explain, experiment and share knowledge with others.**
+
+---
+
+## 📚 Currently Learning
+
+```text
+Java
+  ↓
+DSA & Problem Solving
+  ↓
+Android Development
+  ↓
+Backend & REST APIs
+  ↓
+Databases
+  ↓
+AI / LLM Integration
+  ↓
+System Design & Production-oriented Development
+```
+
+---
+
+## 🎯 My Goal
+
+> Build practical software that solves real problems, continuously improve my engineering skills, and grow as a software developer with strong foundations in Android, backend systems and AI-powered applications.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krupasawarkar630&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupasawarkar630&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/krupasawarkar630">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krupa-sawarkar-b808ba322/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+📧 **Email:** [krupasawarkar630@gmail.com](mailto:krupasawarkar630@gmail.com)
+
+---
+
+### ⭐ Learn • Build • Experiment • Improve
+
+Thanks for visiting my profile! 🚀
