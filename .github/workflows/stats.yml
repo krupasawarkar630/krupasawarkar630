@@ -1,0 +1,36 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # every day at 01:00 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/scripts/generate_stats.py"
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      # Pulls REAL data for krupasawarkar630 from GitHub's GraphQL API and draws SVGs
+      - name: Generate stats SVGs
+        run: python .github/scripts/generate_stats.py dist-stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push SVGs to the stats branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: stats
+          build_dir: dist-stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
