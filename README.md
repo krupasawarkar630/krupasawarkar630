@@ -102,12 +102,8 @@ I've built apps hands-on with Firebase, I enjoy hackathons and technical challen
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krupasawarkar630&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" alt="Krupa Sawarkar's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krupasawarkar630&layout=compact&hide_border=true&theme=github_dark" alt="Krupa Sawarkar's most used languages on GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=krupasawarkar630&hide_border=true&theme=github-dark" alt="Krupa Sawarkar's GitHub contribution streak" />
+  <img src="https://raw.githubusercontent.com/krupasawarkar630/krupasawarkar630/stats/stats.svg" alt="Krupa Sawarkar's GitHub stats, generated from live GitHub data" />
+  <img src="https://raw.githubusercontent.com/krupasawarkar630/krupasawarkar630/stats/languages.svg" alt="Krupa Sawarkar's most used languages on GitHub" />
 </p>
 
 ---
@@ -115,7 +111,7 @@ I've built apps hands-on with Firebase, I enjoy hackathons and technical challen
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krupasawarkar630&hide_border=true&area=true&theme=github-dark" alt="Krupa Sawarkar's GitHub contribution activity graph" />
+  <img src="https://raw.githubusercontent.com/krupasawarkar630/krupasawarkar630/stats/activity.svg" alt="Krupa Sawarkar's GitHub contribution activity over the last 90 days" />
 </p>
 
 ---
