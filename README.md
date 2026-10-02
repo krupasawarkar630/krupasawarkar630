@@ -21,37 +21,25 @@ I'm Krupa Sawarkar, a Computer Science & Engineering student and Android develop
 I learn best through hands-on experimentation and solving real-world problems, and I like taking part in technical communities and sharing what I learn.
 
 ---
-
 ## 🌱 Interests & Currently Exploring
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+### 💡 Interests
 
-**Interests**
-- Android development and mobile applications
-- Artificial Intelligence and Generative AI
-- AI Agents and intelligent systems
-- Problem solving and real-world applications
-- Exploring emerging technologies
-- Developer communities and technical learning
-- Continuous learning and skill improvement
+- 📱 Android development and mobile applications
+- 🤖 Artificial Intelligence and Generative AI
+- 🧠 AI Agents and intelligent systems
+- 🧩 Problem solving and real-world applications
+- 🚀 Exploring emerging technologies
+- 👥 Developer communities and technical learning
+- 📈 Continuous learning and skill improvement
 
-    </td>
-    <td width="50%" valign="top">
+### 🔭 Currently Exploring
 
-**Currently Exploring**
-- Advanced Android development
-- Artificial Intelligence, Generative AI and AI agents
-- Better backend development
-- Real-world problem solving
-- Flutter
-
-    </td>
-  </tr>
-</table>
-
----
+- 📱 Advanced Android development
+- 🤖 Artificial Intelligence, Generative AI and AI agents
+- ⚙️ Better backend development
+- 🌍 Real-world problem solving
+- 🦋 Flutter
 
 ---
 
@@ -86,7 +74,9 @@ I learn best through hands-on experimentation and solving real-world problems, a
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krupasawarkar630&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution activity graph" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=krupasawarkar630&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution activity graph" /> -->
+
+<!-- <img src="https://ghchart.rshah.org/krupasawarkar630" width="95%" alt="Contribution calendar" /> -->
 
 <br/>
 
@@ -95,7 +85,9 @@ I learn best through hands-on experimentation and solving real-world problems, a
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krupasawarkar630&theme=github_dark" alt="Profile details" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krupasawarkar630&theme=github_dark" alt="Profile details" /> -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krupasawarkar630&theme=github_dark&utcOffset=5.5" alt="Productive time" />
 
 </div>
 
