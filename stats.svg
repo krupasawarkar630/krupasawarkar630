@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 415 205" width="415" height="205" role="img" aria-label="GitHub Stats (live from GitHub)"><title>GitHub Stats (live from GitHub)</title><style>
+.bg{fill:#ffffff;stroke:#d0d7de}.t{fill:#1f2328;font:600 15px 'Segoe UI',Ubuntu,sans-serif}
+.l{fill:#1f2328;font:13px 'Segoe UI',Ubuntu,sans-serif}.m{fill:#656d76;font:11px 'Segoe UI',Ubuntu,sans-serif}
+.f{fill:#0969da}.s{stroke:#0969da;fill:none;stroke-width:2}.g{stroke:#d0d7de}.ar{fill:#0969da;fill-opacity:.15}
+@media (prefers-color-scheme: dark){
+.bg{fill:#0d1117;stroke:#30363d}.t{fill:#e6edf3}.l{fill:#e6edf3}.m{fill:#8b949e}
+.f{fill:#58a6ff}.s{stroke:#58a6ff}.g{stroke:#30363d}.ar{fill:#58a6ff;fill-opacity:.18}}
+</style><rect class="bg" x=".5" y=".5" width="414" height="204" rx="8"/><text class="t" x="20" y="30">GitHub Stats (live from GitHub)</text><text class="l" x="20" y="58">Contributions (last year)</text><text class="l" x="395" y="58" text-anchor="end" font-weight="600">63</text><text class="l" x="20" y="82">Commits (last year)</text><text class="l" x="395" y="82" text-anchor="end" font-weight="600">49</text><text class="l" x="20" y="106">Pull requests / Issues</text><text class="l" x="395" y="106" text-anchor="end" font-weight="600">2 / 0</text><text class="l" x="20" y="130">Public repos (non-fork) / Stars</text><text class="l" x="395" y="130" text-anchor="end" font-weight="600">9 / 2</text><text class="l" x="20" y="154">Followers</text><text class="l" x="395" y="154" text-anchor="end" font-weight="600">2</text><text class="l" x="20" y="178">Current / longest streak (days)</text><text class="l" x="395" y="178" text-anchor="end" font-weight="600">3 / 3</text></svg>
